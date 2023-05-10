@@ -1,7 +1,5 @@
 ### Hello, I'm Gabriel Costa 👋 
 
-<!--
-**GabrielCM16/GabrielCM16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About me:
 
 - 😄 My name is Gabriel Costa de Moraes
@@ -13,4 +11,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
