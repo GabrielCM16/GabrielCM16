@@ -3,14 +3,13 @@
 ## About me:
 
 - 😄 My name is Gabriel Costa de Moraes
-- 🔭 I’m currently working on TCC (Conclusion Course Project)
-- 🌱 Senior year at IFPR Cascavel.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 🔭 I am currently working on the TCC (Course Completion Project), called MeuIF
+- 🌱 Last year at IFPR Rattlesnake.
+- 👯 I'm looking to collaborate on Android projects, web and programming logic issues
+- 💬 Ask me about animals
+- 📫 How to reach me: gabrielcostademoraes13@gmail.com
+- 😄 Pronouns: He/He
+- ⚡ Fun fact: I love animals
 
 
 ## Github Stats
