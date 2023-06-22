@@ -4,7 +4,7 @@
 
 - 😄 My name is Gabriel Costa de Moraes
 - 🔭 I am currently working on the TCC (Course Completion Project), called MeuIF
-- 🌱 Last year at IFPR Rattlesnake.
+- 🌱 Last year at IFPR Cascavel
 - 👯 I'm looking to collaborate on Android projects, web and programming logic issues
 - 💬 Ask me about animals
 - 📫 How to reach me: gabrielcostademoraes13@gmail.com
