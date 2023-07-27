@@ -10,6 +10,7 @@
 - 📫 How to reach me: gabrielcostademoraes13@gmail.com
 - 😄 Pronouns: He/He
 - ⚡ Fun fact: I love animals
+- follow me on beecrowd https://www.beecrowd.com.br/judge/pt/users/statistics/635195
 
 
 ## Github Stats
