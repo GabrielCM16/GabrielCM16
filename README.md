@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love animals
 - follow me on beecrowd https://www.beecrowd.com.br/judge/pt/users/statistics/635195
 
-[:brazil:](https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f1e7-1f1f7.png) Eclesiastes 10:2 
+🇧🇷 Eclesiastes 10:2 
  - O coração do sábio o inclina para a direita, mas o coração do tolo o inclina para a esquerda.
 
 ## Github Stats
