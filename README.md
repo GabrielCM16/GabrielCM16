@@ -13,8 +13,8 @@
 - follow me on beecrowd https://www.beecrowd.com.br/judge/pt/users/statistics/635195
 
 Eclesiastes 10:2 
- - O coração do sábio o inclina para a direita, mas o coração do tolo o inclina para a esquerda.
-<img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1e7-1f1f7.svg" width="50px">
+ - O coração do sábio o inclina para a direita, mas o coração do tolo o inclina para a esquerda. <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1e7-1f1f7.svg" width="50px">
+
 
 ## Github Stats
 
