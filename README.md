@@ -19,7 +19,7 @@
 ## Github Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCM16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCM16&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielCM16&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
