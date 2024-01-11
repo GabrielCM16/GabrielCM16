@@ -8,7 +8,6 @@
 - 👯 I'm looking to collaborate on Android projects, web and programming logic issues
 - 💬 Ask me about animals
 - 📫 How to reach me: gabrielcostademoraes13@gmail.com
-- ⚡ Fun fact: I love animals
 - follow me on beecrowd https://www.beecrowd.com.br/judge/pt/users/statistics/635195
 
 Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir,
