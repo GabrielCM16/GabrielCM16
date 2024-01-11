@@ -1,14 +1,13 @@
-### Hello, I'm Gabriel Costa 👋 
+### Hello, I'm Gabriel Costa 
 
 ## About me:
 
 - 😄 My name is Gabriel Costa de Moraes
-- 🔭 I am currently working on the TCC (Course Completion Project), called MeuIF
-- 🌱 Last year at IFPR Cascavel
+- take a look at my LinkedIn https://www.linkedin.com/in/gabriel-costa-946984292/
+- 🔭 Currently looking for a job while studying at IFPR college.
 - 👯 I'm looking to collaborate on Android projects, web and programming logic issues
 - 💬 Ask me about animals
 - 📫 How to reach me: gabrielcostademoraes13@gmail.com
-- 😄 Pronouns: He/He
 - ⚡ Fun fact: I love animals
 - follow me on beecrowd https://www.beecrowd.com.br/judge/pt/users/statistics/635195
 
