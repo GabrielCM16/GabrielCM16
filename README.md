@@ -26,8 +26,10 @@ Romanos 8:38,39
 
 <b>My GitHub Stats</b>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielCM16&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCM16&layout=compact&langs_count=168&theme=dark"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielCM16&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCM16&layout=compact&langs_count=168&theme=dark"/>
+</div>
 
 ### Support Me
 
