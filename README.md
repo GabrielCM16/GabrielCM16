@@ -2,18 +2,10 @@
 
 ## About me:
 
-- 😄 My name is Gabriel Costa de Moraes
-- 🔭 Currently looking for a job while studying at IFPR college.
-- 👯 I'm looking to collaborate on Android projects, web and programming logic issues
-- 💬 Ask me about animals
-- 📫 How to reach me: gabrielcostademoraes13@gmail.com
+- ![image](https://github.com/GabrielCM16/GabrielCM16/assets/121687389/6f0cb515-0185-443f-b316-c332e6b545a8) Técnico em informática - IFPR
+- Cursando ciência da computação - Unioeste
+- Lógica de programação e back-end
 - follow me on beecrowd https://www.beecrowd.com.br/judge/pt/users/statistics/635195
-
-Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir,
-Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. 
-
-Romanos 8:38,39
-
 
 ### Skills
 
