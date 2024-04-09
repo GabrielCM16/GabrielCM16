@@ -2,7 +2,7 @@
 
 ## About me:
 
-- <img src="https://github.com/GabrielCM16/GabrielCM16/assets/121687389/1cfbd6d3-323e-4c76-83e6-7fe13a0306e5" width="36" height="36"/> Técnico em informática - IFPR
+- Técnico em informática - IFPR <img src="https://github.com/GabrielCM16/GabrielCM16/assets/121687389/1cfbd6d3-323e-4c76-83e6-7fe13a0306e5" width="30" height="30"/> 
 - Cursando ciência da computação - Unioeste
 - Lógica de programação e back-end
 - follow me on beecrowd https://www.beecrowd.com.br/judge/pt/users/statistics/635195
