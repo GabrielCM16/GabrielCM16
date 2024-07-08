@@ -22,11 +22,3 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielCM16&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCM16&layout=compact&langs_count=168&theme=dark"/>
 </div>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/gabrielcm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
