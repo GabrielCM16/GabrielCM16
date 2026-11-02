@@ -20,8 +20,6 @@
 
 ### 👨‍💻 Sobre mim
 
-Oi, eu sou o Gabriel! Gosto de construir coisa que funciona e, quando o monitor cansa, toco teclado.
-
 - 🎓 Cursando **Ciência da Computação** — Unioeste
 - 📜 Técnico em Informática — IFPR
 - 🌐 Faço **web**: sites, apps e sistemas, do front ao back
